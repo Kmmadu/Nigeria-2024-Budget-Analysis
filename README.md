@@ -29,22 +29,36 @@ An in-depth analysis of Nigeria’s 2024 budget using Excel. This project covers
    ```bash
    git clone https://github.com/Kmmadu/Nigeria-2024-Budget-Analysis.git
 
-2. Open the Excel files in the Analysis and Dashboard folders to explore the data and insights.
+2. **Open the Excel files in the Analysis and Dashboard folders to explore the data and insights.**
 🛠 Tools & Technologies
 Microsoft Excel: Primary tool for data analysis and visualization.
 Excel Pivot Tables and Charts: Used for summarizing and visualizing data.
 Excel Power Query: For data cleaning and transformation.
-🔍 Analysis Approach
-Data Cleaning: Removed any inconsistencies and prepared data for analysis.
-Exploratory Analysis: Identified trends and patterns in budget allocation.
-Visualization: Created graphs to illustrate key findings.
-Dashboard Creation: Developed an interactive dashboard for a high-level budget overview.
-📅 Project Timeline
-Data Collection: Pending
-Analysis and Visualization: To be updated
-Dashboard Completion: To be updated
-🤝 Contributing
+
+---
+
+##🔍 Analysis Approach
+
+**Data Cleaning: Removed any inconsistencies and prepared data for analysis.**
+**Exploratory Analysis: Identified trends and patterns in budget allocation.**
+**Visualization: Created graphs to illustrate key findings.**
+**Dashboard Creation: Developed an interactive dashboard for a high-level budget overview.**
+
+---
+
+##📅 Project Timeline
+
+**Data Collection: Pending
+**Analysis and Visualization: To be updated
+**Dashboard Completion: To be updated
+
+---
+
+##🤝 Contributing
+
 Feel free to fork this project and make pull requests if you’d like to contribute.
 
-📜 License
+---
+
+##📜 License
 This project is licensed under the MIT License.
