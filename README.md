@@ -37,7 +37,7 @@ Excel Power Query: For data cleaning and transformation.
 
 ---
 
-##🔍 Analysis Approach
+## 🔍 Analysis Approach
 
 **Data Cleaning: Removed any inconsistencies and prepared data for analysis.**
 **Exploratory Analysis: Identified trends and patterns in budget allocation.**
@@ -46,19 +46,19 @@ Excel Power Query: For data cleaning and transformation.
 
 ---
 
-##📅 Project Timeline
+## 📅 Project Timeline
 
-**Data Collection: Pending
-**Analysis and Visualization: To be updated
-**Dashboard Completion: To be updated
-
----
-
-##🤝 Contributing
-
-Feel free to fork this project and make pull requests if you’d like to contribute.
+**Data Collection: Pending**
+**Analysis and Visualization: To be updated**
+**Dashboard Completion: To be updated**
 
 ---
 
-##📜 License
+## 🤝 Contributing
+
+**Feel free to fork this project and make pull requests if you’d like to contribute.**
+
+---
+
+## 📜 License
 This project is licensed under the MIT License.
